@@ -1,0 +1,13 @@
+{
+  "customer": {
+    "name": "abc",
+    "id": 123
+  },
+  "buyerArray": [
+    {"name":"soap", "id":1, "price":100 , "amount":1, "supply":23},
+    {"name":"toothbrush","id":2, "price":150 , "amount":2, "supply":55},
+    {"name":"pen", "id":3, "price":75 , "amount":2, "supply":15},
+    {"name":"shampoo","id":4, "price":25 , "amount":2, "supply":220}
+  ]
+
+}
